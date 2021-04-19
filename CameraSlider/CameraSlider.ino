@@ -1,6 +1,7 @@
 //The DIY Life
 //Michael Klements
 //13 January 2021
+//License: CC BY-NC-SA
 
 #include <SPI.h>                            //Import libraries to control the OLED display
 #include <Wire.h>
